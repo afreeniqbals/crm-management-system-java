@@ -17,8 +17,6 @@ A CRM Management System built using Java, JSP, Servlets, JDBC, MySQL, and Bootst
 - MySQL
 - Bootstrap
 
-## Screenshots
-(Add screenshots here)
 
 ## Author
 Afreen Shaikh
